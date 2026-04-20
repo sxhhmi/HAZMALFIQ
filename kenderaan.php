@@ -75,7 +75,7 @@ include ('config.php');
             <tr>
                 <th>Plat No.</th>
                 <th>Address</th>
-                <th></th>
+                <th>haziq</th>
 				<th>Name</th>
 				<th>Status</th>
 				
